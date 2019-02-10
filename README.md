@@ -7,12 +7,11 @@ CeVIO Creative Studio (CeVIO)で書き出したLABファイルからMiku Miku Da
 - Microsoft Windows 10 64bit
 - Microsoft Visual Studio Community 2017
 - CeVIO Creative Studio 6 製品版 [公式サイト](http://cevio.jp/others/CCS/)
-- 任意のVMDファイル (.vmd)
+- 任意のVMDファイル
 
 ## 使い方
 - LAB2CSVMD.slnをVisual Studioでビルドする。
 - CeVIOでトークやソングを作成し、LABファイルとWAVファイル(トークの場合はTXTファイルも)をエクスポートする。
-)
 - LAB2VMD でLAB、TXTを読み込む。
 - 用意したVMDファイルを更新する。トークの場合は必要に応じて連結WAVも作成する。
 - Face And Lips などのソフトウェアで調整するとよい。
