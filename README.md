@@ -20,3 +20,8 @@ CeVIO Creative Studio (CeVIO)で書き出したLABファイルからMiku Miku Da
 - リップシンクの挙動は超適当。あくまでも目安としての位置づけ。
 - ランダム (8～12秒) でまばたきモーションも入る。(強制上書き)
 - 本ソフトウェアは ＤＸライブラリ を使用している。ライセンスなどは DxLib.txt を参照のこと。
+
+## Special Thanks to
+- https://github.com/hangingman/wxMMDViewer/tree/master/libvmdconv
+- https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d
+- https://harigane.at.webry.info/201103/article_1.html
