@@ -20,6 +20,7 @@ CeVIO Creative Studio (CeVIO)で書き出したLABファイルからMiku Miku Da
 - リップシンクの挙動は超適当。あくまでも目安としての位置づけ。Face And Lips 等での調整推奨。
 - ランダム (8～12秒) でまばたきモーションも入る。(強制上書き)
 - 本ソフトウェアは ＤＸライブラリ を使用している。ライセンスなどは DxLib.txt を参照のこと。
+- [Wiki](https://github.com/elftune/LAB2CSVMD/wiki)
 
 ## Special Thanks to
 - https://github.com/hangingman/wxMMDViewer/tree/master/libvmdconv
