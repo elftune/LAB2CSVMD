@@ -1,7 +1,8 @@
 # LAB2CSVMD
 
 ## Overview
-CeVIO Creative Studio (CeVIO)で書き出したLABファイルからMiku Miku Dance (MMD)用リップシンクデータを作成。
+CeVIO Creative Studio (CeVIO)で書き出したLABファイルからMiku Miku Dance (MMD)用リップシンクデータを作成。  
+![Image](https://elftune.github.io/app/lab2csvmd/image.png)
 
 ## Requirements
 - Microsoft Windows 10 64bit
